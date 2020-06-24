@@ -5,4 +5,8 @@ REe e ee E
 Test 
 fgfgfg
 
+<<<<<<< HEAD
 Change to master for WI by team mate
+=======
+changes -> to fix bug2
+
